@@ -6,7 +6,7 @@ class Header extends Component {
             <div style={headerStyle}>
                 <div className="flex-fill" >Mano planai</div>
                 <a style={linkStyle} href="/">Pradžia</a>
-                <a style={linkStyle} href="/Info">Info</a>
+                <a style={linkStyle} href="/info">Info</a>
             </div>
 
         );

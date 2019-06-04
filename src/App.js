@@ -56,7 +56,7 @@ class App extends Component {
                         <Todos todos={this.state.todos} status={this.status} delete={this.delete}/>
                     </React.Fragment>
                 }/>
-                <Route path="/Info" render={Info}/>
+                <Route path="/info" render={Info}/>
 
             </Router>
         );
